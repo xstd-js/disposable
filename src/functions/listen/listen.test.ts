@@ -2,7 +2,7 @@ import { describe, expect, it, vi } from 'vitest';
 import { listen } from './listen.js';
 
 describe('listen', () => {
-  it('should create an abortable event listener', () => {
+  it('should create a disposable event listener', () => {
     const spy = vi.fn();
 
     const listener = listen(window, 'click', spy);

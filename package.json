@@ -1,6 +1,6 @@
 {
   "name": "@xstd/disposable",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "type": "module",
   "main": "./index.js",
   "scripts": {
@@ -15,7 +15,7 @@
     "fb:rc": "node fabrique/actions/cli/build-and-publish.cli.js --mode rc"
   },
   "description": "Disposable helpers",
-  "keywords": [],
+  "keywords": ["disposable"],
   "author": "Valentin Richard",
   "license": "MIT",
   "access": "public",

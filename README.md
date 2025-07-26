@@ -2,7 +2,7 @@
 ![npm](https://img.shields.io/npm/dm/@xstd/disposable.svg)
 ![NPM](https://img.shields.io/npm/l/@xstd/disposable.svg)
 ![npm type definitions](https://img.shields.io/npm/types/@xstd/disposable.svg)
-![npm type definitions](https://img.shields.io/badge/coverage-100%25-green)
+![coverage](https://img.shields.io/badge/coverage-100%25-green)
 
 <picture>
   <source height="64" media="(prefers-color-scheme: dark)" srcset="https://github.com/xstd-js/website/blob/main/assets/logo/png/logo-large-dark.png?raw=true">
